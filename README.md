@@ -1,4 +1,4 @@
-# 👨‍💻 ¡Hola! Soy [Pablo Casamián]
+# 👨‍💻 ¡Hola! Soy Pablo Casamián
 
 Soy un estudiante de **2º DAW** (Desarrollo de Aplicaciones Web) con una gran pasión por la programación. Estoy aprendiendo tecnologías como **PHP**, **JavaScript** y **Python**, y el año pasado profundicé en **Java**, **SQL** y un poco de **Oracle**. Actualmente, me encuentro explorando herramientas y tecnologías como **Docker**, **Hugo** y **Git**, con el objetivo de convertirme en un desarrollador más completo y versátil.
 
