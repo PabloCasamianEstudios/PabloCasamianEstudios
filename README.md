@@ -29,7 +29,7 @@ Este es un resumen de las principales tecnologías con las que he trabajado:
 - ![Hugo](https://img.shields.io/badge/-Hugo-ff4088?style=flat-square&logo=hugo&logoColor=white) **Hugo** *(en aprendizaje)*
 
 ---
-
+<!--z
 ## 🚀 Proyectos Destacados
 
 Aquí te dejo algunos de los proyectos en los que he estado trabajando recientemente. Estoy en constante evolución, así que siempre estoy buscando nuevos desafíos.
@@ -43,7 +43,7 @@ Aquí te dejo algunos de los proyectos en los que he estado trabajando recientem
 *(¡Pronto más proyectos en mi perfil!)*
 
 ---
-
+-->
 ## 🧠 Mi Filosofía de Aprendizaje
 
 Soy un desarrollador en **constante evolución**. Mi enfoque no solo es aprender una tecnología específica, sino comprender cómo resolver problemas de manera eficiente y cómo aplicar mis conocimientos en situaciones reales. Me apasiona el **aprendizaje continuo**, tanto en el ámbito del desarrollo de software como en el de nuevas herramientas y metodologías que mejoren mi productividad.
