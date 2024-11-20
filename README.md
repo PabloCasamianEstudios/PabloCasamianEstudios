@@ -50,6 +50,8 @@ Soy un desarrollador en **constante evolución**. Mi enfoque no solo es aprender
 
 ---
 
+!["pueba"](https://www.google.com/imgres?q=imagen&imgurl=https%3A%2F%2Fmarketing4ecommerce.net%2Fwp-content%2Fuploads%2F2024%2F02%2Fias-generadoras-de-imagenes.jpg&imgrefurl=https%3A%2F%2Fmarketing4ecommerce.net%2Ftop-ia-generadoras-de-imagenes%2F&docid=YHO3ygcH-PspRM&tbnid=hjmqH5_lJlqUmM&vet=1&w=750&h=450&hcb=2&ved=2ahUKEwjIj8HO4OqJAxXngP0HHasPKeEQM3oECFUQAA)
+<!--
 ## 📚 Recursos y Lecturas
 
 A medida que sigo aprendiendo, me gusta compartir las lecturas y recursos que encuentro útiles. Aquí dejo algunos que me han marcado:
@@ -59,7 +61,7 @@ A medida que sigo aprendiendo, me gusta compartir las lecturas y recursos que en
 - **[Enlace a un recurso educativo que recomiendes]**
 
 ---
-
+-->
 ## 📫 Conecta conmigo
 
 Si tienes alguna duda, sugerencia o simplemente quieres conectar, no dudes en contactarme:
