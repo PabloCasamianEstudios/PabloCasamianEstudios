@@ -65,8 +65,6 @@ A medida que sigo aprendiendo, me gusta compartir las lecturas y recursos que en
 
 Si tienes alguna duda, sugerencia o simplemente quieres conectar, no dudes en contactarme:
 
-- **[Twitter](enlace-a-twitter)**
-- **[LinkedIn](enlace-a-linkedin)**
 - **[Correo Electrónico](enlace-a-email)**
 
 ---
