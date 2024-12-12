@@ -60,13 +60,13 @@ A medida que sigo aprendiendo, me gusta compartir las lecturas y recursos que en
 - **[Enlace a un recurso educativo que recomiendes]**
 
 ---
--->
+
 ## 📫 Conecta conmigo
 
 Si tienes alguna duda, sugerencia o simplemente quieres conectar, no dudes en contactarme:
 
 - **[Correo Electrónico](enlace-a-email)**
-
+-->
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
