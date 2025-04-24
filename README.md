@@ -1,72 +1,80 @@
-# 👨‍💻 ¡Hola! Soy Pablo Casamián
+# 👋 ¡Aloh! Soy Pablo Casamián
 
-Soy un estudiante de **2º DAW** (Desarrollo de Aplicaciones Web) con una gran pasión por la programación. Estoy aprendiendo tecnologías como **PHP**, **JavaScript** y **Python**, y el año pasado profundicé en **Java**, **SQL** y un poco de **Oracle**. Actualmente, me encuentro explorando herramientas y tecnologías como **Docker**, **Hugo** y **Git**, con el objetivo de convertirme en un desarrollador más completo y versátil.
+Desarrollador en formación y estudiante de **2º DAW (Desarrollo de Aplicaciones Web) en CPIFP los ENLACES**.
 
-🚀 Mi objetivo es seguir evolucionando como programador, aprendiendo nuevas herramientas y técnicas que me ayuden a resolver problemas de manera eficiente y efectiva.
+Cuando decidí meterme en el mundo de la programación no tenía del todo claro si esto de la informática era para mí… pero hoy no tengo ninguna duda: fue una de las mejores decisiones que he tomado. Cuanto más aprendo, más me engancha.
+
+---
+## 🚀 Sobre mí
+
+- 🎯 Actualmente aprendiendo **React**.
+- 🔧 Con experiencia profesional en **JavaScript**, **CSS**, **HTML** y **Vue**
+- 🧠 Siempre intentando mejorar mis habilidades.
 
 ---
 
-## 🧑‍💻 Tecnologías y Herramientas
+## 🛠️ Tecnologías que uso
 
-Este es un resumen de las principales tecnologías con las que he trabajado:
+### Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+</div>
 
-### Frontend:
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) **JavaScript**
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5**
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3**
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **React** *(en aprendizaje)*
+### Backend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel" />
+</div>
 
-### Backend:
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) **PHP**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python**
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) **Java**
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) **SQL**
-- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) **Oracle** *(básico)*
+### Bases de Datos
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="30" alt="DBeaver" />
+</div>
 
-### Herramientas:
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) **Git** & **GitHub**
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker** *(en aprendizaje)*
-- ![Hugo](https://img.shields.io/badge/-Hugo-ff4088?style=flat-square&logo=hugo&logoColor=white) **Hugo** *(en aprendizaje)*
-
----
-<!--z
-## 🚀 Proyectos Destacados
-
-Aquí te dejo algunos de los proyectos en los que he estado trabajando recientemente. Estoy en constante evolución, así que siempre estoy buscando nuevos desafíos.
-
-- **[Proyecto 1 - Nombre del Proyecto](enlace-al-repositorio)**
-  - Descripción breve del proyecto, tecnologías utilizadas, funcionalidades principales.
-  
-- **[Proyecto 2 - Nombre del Proyecto](enlace-al-repositorio)**
-  - Descripción breve del proyecto, tecnologías utilizadas, funcionalidades principales.
-
-*(¡Pronto más proyectos en mi perfil!)*
-
----
--->
-## 🧠 Mi Filosofía de Aprendizaje
-
-Soy un desarrollador en **constante evolución**. Mi enfoque no solo es aprender una tecnología específica, sino comprender cómo resolver problemas de manera eficiente y cómo aplicar mis conocimientos en situaciones reales. Me apasiona el **aprendizaje continuo**, tanto en el ámbito del desarrollo de software como en el de nuevas herramientas y metodologías que mejoren mi productividad.
+### Herramientas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="30" alt="Hugo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
+</div>
 
 ---
 
-<!--
-## 📚 Recursos y Lecturas
+## 🌟 Proyectos Destacados
 
-A medida que sigo aprendiendo, me gusta compartir las lecturas y recursos que encuentro útiles. Aquí dejo algunos que me han marcado:
+Aquí te comparto algunos proyectos en los que he trabajado o estoy desarrollando:
 
-- **[Enlace a un artículo/blog sobre alguna tecnología que te guste]**
-- **[Enlace a una tutorial que hayas seguido recientemente]**
-- **[Enlace a un recurso educativo que recomiendes]**
+- **[FreeStockHub](https://github.com/PabloCasamianEstudios/FreeStockHub)**
+  > *Working on 🚧*
+
+  Una aplicación desarrollada con VUE que busca brindar recursos y herramientas gratuitas a desarrolladores, editores y artistas. 
+
+- **[Pixollect](https://github.com/PabloCasamianEstudios/Pixollect)**  > *Working on 🚧*
+
+  Aplicación web desarrollada para mi TFG en el grado superior de DAW (Desarrollo de Aplicaciones Web) utilizando Laravel, Vue, Inertia, Node.js, PHP y JavaScript
+
+*(Por ahora no hay más proyectos destacables que mostrar... 🚧)*
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Contacto
 
-Si tienes alguna duda, sugerencia o simplemente quieres conectar, no dudes en contactarme:
+Si quieres charlar sobre código, colaborar o simplemente saludar:
 
-- **[Correo Electrónico](enlace-a-email)**
--->
+📩 **pablocasamianestudios@gmail.com**
+
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
