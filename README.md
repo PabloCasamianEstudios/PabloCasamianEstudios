@@ -30,7 +30,8 @@ Cuando decidí meterme en el mundo de la programación no tenía del todo claro 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="Laravel" />
+
 </div>
 
 ### Bases de Datos
