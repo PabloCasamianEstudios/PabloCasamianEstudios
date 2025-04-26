@@ -60,11 +60,12 @@ Aquí te comparto algunos proyectos en los que he trabajado o estoy desarrolland
 - **[FreeStockHub](https://github.com/PabloCasamianEstudios/FreeStockHub)**
   > *Working on 🚧*
 
-  Una aplicación desarrollada con VUE que busca brindar recursos y herramientas gratuitas a desarrolladores, editores y artistas. 
+  Una aplicación desarrollada con Vue que busca brindar recursos y herramientas gratuitas a desarrolladores, editores y artistas. 
 
-- **[Pixollect](https://github.com/PabloCasamianEstudios/Pixollect)**  > *Working on 🚧*
+- **[Pixollect](https://github.com/PabloCasamianEstudios/Pixollect)**  
+> *Working on 🚧*
 
-  Aplicación web desarrollada para mi TFG en el grado superior de DAW (Desarrollo de Aplicaciones Web) utilizando Laravel, Vue, Inertia, Node.js, PHP y JavaScript
+  Aplicación web desarrollada para mi TFG en el grado superior de DAW (Desarrollo de Aplicaciones Web) utilizando Laravel, Vue, Inertia.js, Vite, Node.js, PHP y JavaScript
 
 *(Por ahora no hay más proyectos destacables que mostrar... 🚧)*
 
